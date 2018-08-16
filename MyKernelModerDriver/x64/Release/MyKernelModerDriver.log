@@ -1,0 +1,32 @@
+﻿C:\Users\Sina\Desktop\MyKernelModerDriver\MyKernelModerDriver\MyKernelModerDriver.vcxproj(113,5): warning MSB4011: "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\BuildCustomizations\masm.props" cannot be imported again. It was already imported at "C:\Program Files (x86)\Windows Kits\10\build\WindowsDriver.Shared.props (352,3)". This is most likely a build authoring error. This subsequent import will be ignored. 
+C:\Users\Sina\Desktop\MyKernelModerDriver\MyKernelModerDriver\MyKernelModerDriver.vcxproj(225,5): warning MSB4011: "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\BuildCustomizations\masm.targets" cannot be imported again. It was already imported at "C:\Program Files (x86)\Windows Kits\10\build\WindowsDriver.common.targets (1835,3)". This is most likely a build authoring error. This subsequent import will be ignored. 
+  Building 'MyKernelModerDriver' with toolset 'WindowsKernelModeDriver10.0' and the 'Universal' target platform.
+  Stamping x64\Release\MyKernelModerDriver.inf [Version] section with DriverVer=08/16/2018,18.27.0.335
+  Driver.c
+Driver.c(8): warning C4100: 'Driver': unreferenced formal parameter
+Driver.c(14): warning C4100: 'RegistryPath': unreferenced formal parameter
+Driver.c(13): warning C4100: 'DriverObject': unreferenced formal parameter
+  MyKernelModerDriver.vcxproj -> C:\Users\Sina\Desktop\MyKernelModerDriver\x64\Release\MyKernelModerDriver.sys
+  MyKernelModerDriver.vcxproj -> C:\Users\Sina\Desktop\MyKernelModerDriver\x64\Release\MyKernelModerDriver.pdb (Full PDB)
+C:\Users\Sina\Desktop\MyKernelModerDriver\MyKernelModerDriver\MyKernelModerDriver.vcxproj(113,5): warning MSB4011: "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\BuildCustomizations\masm.props" cannot be imported again. It was already imported at "C:\Program Files (x86)\Windows Kits\10\build\WindowsDriver.Shared.props (352,3)". This is most likely a build authoring error. This subsequent import will be ignored. 
+C:\Users\Sina\Desktop\MyKernelModerDriver\MyKernelModerDriver\MyKernelModerDriver.vcxproj(225,5): warning MSB4011: "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\BuildCustomizations\masm.targets" cannot be imported again. It was already imported at "C:\Program Files (x86)\Windows Kits\10\build\WindowsDriver.common.targets (1835,3)". This is most likely a build authoring error. This subsequent import will be ignored. 
+  Done Adding Additional Store
+  Successfully signed: C:\Users\Sina\Desktop\MyKernelModerDriver\x64\Release\MyKernelModerDriver.sys
+  
+  Driver is a Universal Driver.
+  .........................
+  Signability test complete.
+  
+  Errors:
+  None
+  
+  Warnings:
+  None
+  
+  Catalog generation complete.
+  C:\Users\Sina\Desktop\MyKernelModerDriver\x64\Release\MyKernelModerDriver\mykernelmoderdriver.cat
+C:\Users\Sina\Desktop\MyKernelModerDriver\MyKernelModerDriver\MyKernelModerDriver.vcxproj(113,5): warning MSB4011: "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\BuildCustomizations\masm.props" cannot be imported again. It was already imported at "C:\Program Files (x86)\Windows Kits\10\build\WindowsDriver.Shared.props (352,3)". This is most likely a build authoring error. This subsequent import will be ignored. 
+C:\Users\Sina\Desktop\MyKernelModerDriver\MyKernelModerDriver\MyKernelModerDriver.vcxproj(225,5): warning MSB4011: "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\BuildCustomizations\masm.targets" cannot be imported again. It was already imported at "C:\Program Files (x86)\Windows Kits\10\build\WindowsDriver.common.targets (1835,3)". This is most likely a build authoring error. This subsequent import will be ignored. 
+  Done Adding Additional Store
+  Successfully signed: C:\Users\Sina\Desktop\MyKernelModerDriver\x64\Release\MyKernelModerDriver\mykernelmoderdriver.cat
+  

@@ -1,0 +1,6 @@
+﻿  Building 'MyKernelModerDriver' with toolset 'WindowsKernelModeDriver10.0' and the 'Universal' target platform.
+  Stamping x64\Debug\MyKernelModerDriver.inf [Version] section with DriverVer=08/14/2018,11.36.14.923
+  Assembling Driver.asm...
+  Driver.c
+x64\Debug\Driver.obj : warning LNK4042: object specified more than once; extras ignored
+LINK : error LNK1218: warning treated as error; no output file generated

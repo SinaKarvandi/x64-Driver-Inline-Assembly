@@ -1,0 +1,10 @@
+﻿  Building 'MyKernelModerDriver' with toolset 'WindowsKernelModeDriver10.0' and the 'Universal' target platform.
+  Stamping Debug\MyKernelModerDriver.inf [Version] section with DriverVer=08/14/2018,11.19.36.96
+  Assembling Driver.asm...
+Driver.asm(1): error A2013: .MODEL must precede this directive
+Driver.asm(2): error A2008: syntax error : (
+Driver.asm(4): error A2034: must be in segment block
+Driver.asm(5): error A2034: must be in segment block
+Driver.asm(6): error A2034: must be in segment block
+Driver.asm(8): error A2006: undefined symbol : proctesting
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\BuildCustomizations\masm.targets(50,5): error MSB3721: The command "ml.exe /c /nologo /Zi /Fo"Debug\Driver.obj" /W3 /errorReport:prompt  /TaDriver.asm" exited with code 1.
