@@ -1,6 +1,29 @@
-﻿  Building 'MyKernelModerDriver' with toolset 'WindowsKernelModeDriver10.0' and the 'Universal' target platform.
-  Stamping x64\Debug\MyKernelModerDriver.inf [Version] section with DriverVer=08/14/2018,11.36.14.923
-  Assembling Driver.asm...
-  Driver.c
-x64\Debug\Driver.obj : warning LNK4042: object specified more than once; extras ignored
-LINK : error LNK1218: warning treated as error; no output file generated
+﻿C:\Users\sina\Desktop\test\x64-Driver-Inline-Assembly\MyKernelModerDriver\MyKernelModerDriver.vcxproj(115,5): warning MSB4011: "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\BuildCustomizations\masm.props" cannot be imported again. It was already imported at "C:\Program Files (x86)\Windows Kits\10\build\WindowsDriver.Shared.props (330,3)". This is most likely a build authoring error. This subsequent import will be ignored. 
+C:\Users\sina\Desktop\test\x64-Driver-Inline-Assembly\MyKernelModerDriver\MyKernelModerDriver.vcxproj(230,5): warning MSB4011: "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\BuildCustomizations\masm.targets" cannot be imported again. It was already imported at "C:\Program Files (x86)\Windows Kits\10\build\WindowsDriver.common.targets (1797,3)". This is most likely a build authoring error. This subsequent import will be ignored. 
+  Building 'MyKernelModerDriver' with toolset 'WindowsKernelModeDriver10.0' and the 'Universal' target platform.
+  Stamping x64\Debug\MyKernelModerDriver.inf
+  Stamping [Version] section with DriverVer=06/26/2020,2.42.47.118
+  Assembling Source.asm...
+  MyKernelModerDriver.vcxproj -> C:\Users\sina\Desktop\test\x64-Driver-Inline-Assembly\x64\Debug\MyKernelModerDriver.sys
+C:\Users\sina\Desktop\test\x64-Driver-Inline-Assembly\MyKernelModerDriver\MyKernelModerDriver.vcxproj(115,5): warning MSB4011: "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\BuildCustomizations\masm.props" cannot be imported again. It was already imported at "C:\Program Files (x86)\Windows Kits\10\build\WindowsDriver.Shared.props (330,3)". This is most likely a build authoring error. This subsequent import will be ignored. 
+C:\Users\sina\Desktop\test\x64-Driver-Inline-Assembly\MyKernelModerDriver\MyKernelModerDriver.vcxproj(230,5): warning MSB4011: "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\BuildCustomizations\masm.targets" cannot be imported again. It was already imported at "C:\Program Files (x86)\Windows Kits\10\build\WindowsDriver.common.targets (1797,3)". This is most likely a build authoring error. This subsequent import will be ignored. 
+  Done Adding Additional Store
+  Successfully signed: C:\Users\sina\Desktop\test\x64-Driver-Inline-Assembly\x64\Debug\MyKernelModerDriver.sys
+  
+  Driver is a Universal Driver.
+  ........................
+  Signability test complete.
+  
+  Errors:
+  None
+  
+  Warnings:
+  None
+  
+  Catalog generation complete.
+  C:\Users\sina\Desktop\test\x64-Driver-Inline-Assembly\x64\Debug\MyKernelModerDriver\mykernelmoderdriver.cat
+C:\Users\sina\Desktop\test\x64-Driver-Inline-Assembly\MyKernelModerDriver\MyKernelModerDriver.vcxproj(115,5): warning MSB4011: "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\BuildCustomizations\masm.props" cannot be imported again. It was already imported at "C:\Program Files (x86)\Windows Kits\10\build\WindowsDriver.Shared.props (330,3)". This is most likely a build authoring error. This subsequent import will be ignored. 
+C:\Users\sina\Desktop\test\x64-Driver-Inline-Assembly\MyKernelModerDriver\MyKernelModerDriver.vcxproj(230,5): warning MSB4011: "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\BuildCustomizations\masm.targets" cannot be imported again. It was already imported at "C:\Program Files (x86)\Windows Kits\10\build\WindowsDriver.common.targets (1797,3)". This is most likely a build authoring error. This subsequent import will be ignored. 
+  Done Adding Additional Store
+  Successfully signed: C:\Users\sina\Desktop\test\x64-Driver-Inline-Assembly\x64\Debug\MyKernelModerDriver\mykernelmoderdriver.cat
+  
